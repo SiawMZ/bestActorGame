@@ -28,7 +28,7 @@
 
   {
     "id": 4,
-    "dialog": "【不好意思, 我迟到liao】",
+    "dialog": "【不好意思, 我迟到了",
     "Question": "他的身份是？",
     "true": "老板",
     "false": "男朋友",
@@ -37,6 +37,24 @@
 
   {
     "id": 5,
+    "dialog": "【Ah!!】",
+    "Question": "他在做什么？",
+    "true": "被狗追",
+    "false": "大便",
+    "false 2": "玩跳楼机"
+  },
+
+  {
+    "id": 6,
+    "dialog": "【我很想念你啊】",
+    "Question": "他在做什么？",
+    "true": "LDR 很久的另一半",
+    "false": "第三者",
+    "false 2": "外婆"
+  },
+
+  {
+    "id": 7,
     "dialog": "【Eh?】",
     "Question": "发生了什么事？",
     "true": "别人讲的话有问题",
@@ -45,12 +63,12 @@
   },
 
   {
-    "id": 5,
-    "dialog": "【Eh?】",
-    "Question": "发生了什么事？",
-    "true": "别人讲的话有问题",
-    "false": "东西不见",
-    "false 2": "不记得有这件事"
+    "id": 8,
+    "dialog": "【Oi 你好liao没有哦?】",
+    "Question": "他的身份是？",
+    "true": "赶时间的另一半",
+    "false": "赶时间的服务员",
+    "false 2": "催deadline的老板"
   },
 
   {
@@ -69,5 +87,158 @@
     "true": "Jennifer",
     "false": "Joshua",
     "false 2": "Megan"
+  },
+
+  {
+    "id": 11,
+    "dialog": "Oh!",
+    "Question": "发生什么事？",
+    "true": "突然get到答案",
+    "false": "原来如此",
+    "false 2": "回复别人"
+  },
+
+  {
+    "id": 12,
+    "dialog": "谢谢你啊",
+    "Question": "他的心情是？",
+    "true": "不爽",
+    "false": "开心",
+    "false 2": "生气到想打人"
+  },
+
+  {
+    "id": 13,
+    "dialog": "【不是我！】",
+    "Question": "扮着什么？",
+    "true": "不爽",
+    "false": "假假受委屈",
+    "false 2": "真的受委屈"
+  },
+
+  {
+    "id": 14,
+    "dialog": "【我也这样觉得】",
+    "Question": "发生什么事？",
+    "true": "一起讲八卦",
+    "false": "同意同事的idea",
+    "false 2": "分享的时候不知道要回答什么的Jeff"
+  },
+
+  {
+    "id": 15,
+    "dialog": "【你有收到了吗？】",
+    "Question": "发生什么事？",
+    "true": "Jennifer air drop 照片",
+    "false": "client send email",
+    "false 2": "Joshua催CCN"
+  },
+
+  {
+    "id": 16,
+    "dialog": "【我够了咯，你吃多一点la】",
+    "Question": "讲这句话的是？",
+    "true": "吃饱了的女朋友",
+    "false": "想要你肥一点的阿嫲",
+    "false 2": "一起吃饭可是不好意思吃太多的朋友"
+  },
+
+  {
+    "id": 17,
+    "dialog": "【eh? Hi!】",
+    "Question": "讲这句话的是？",
+    "true": "Megan",
+    "false": "Joshua",
+    "false 2": "Yee Ling"
+  },
+
+  {
+    "id": 18,
+    "dialog": "【你到哪里了？】",
+    "Question": "我在问着谁？",
+    "true": "朋友",
+    "false": "男朋友",
+    "false 2": "女朋友"
+  },
+
+  {
+    "id": 19,
+    "dialog": "【女神/男神：对不起我有喜欢的人了】",
+    "Question": "他听到什么？",
+    "true": "女神/男神：对不起我有喜欢的人了",
+    "false": "被老板炒",
+    "false 2": "朋友要出国做工了"
+  },
+
+  {
+    "id": 20,
+    "dialog": "【脚踢到桌子】",
+    "Question": "他在做什么？",
+    "true": "脚踢到桌子",
+    "false": "脚底按摩",
+    "false 2": "手被烫到"
+  },
+
+  {
+    "id": 21,
+    "dialog": "【找到失散多年的弟弟】",
+    "Question": "他发生了什么事？",
+    "true": "找到失散多年的弟弟",
+    "false": "朋友手术成功",
+    "false 2": "求婚成功"
+  },
+
+  {
+    "id": 22,
+    "dialog": "【Jackson Wang坐在隔壁桌】",
+    "Question": "他看到什么？",
+    "true": "Jackson Wang坐在隔壁桌",
+    "false": "bus走了",
+    "false 2": "阿嫲报名歌唱比赛"
+  },
+
+  {
+    "id": 23,
+    "dialog": "【电梯有人放屁】",
+    "Question": "他闻到什么？",
+    "true": "电梯有人放屁",
+    "false": "食物焦了",
+    "false 2": "臭袜子味"
+  },
+
+  {
+    "id": 24,
+    "dialog": "【债主】",
+    "Question": "他在街上遇到谁？",
+    "true": "不熟的朋友",
+    "false": "前任",
+    "false 2": "债主"
+  },
+
+  {
+    "id": 25,
+    "dialog": "【朋友和他的暧昧对象偷偷约会】",
+    "Question": "他看到什么？",
+    "true": "朋友和他的暧昧对象偷偷约会",
+    "false": "交通意外",
+    "false 2": "鬼"
+  },
+
+  {
+    "id": 26,
+    "dialog": "【杀手】",
+    "Question": "他的身份是？",
+    "true": "杀手",
+    "false": "正在生气的女生",
+    "false 2": "听学生狡辩的老师"
+  },
+
+  {
+    "id": 27,
+    "dialog": "【运动到很累】",
+    "Question": "他的状态是？",
+    "true": "运动到很累",
+    "false": "中暑",
+    "false 2": "喝醉酒"
   }
 ]
