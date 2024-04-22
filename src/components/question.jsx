@@ -32,7 +32,7 @@ export default function Question() {
             </p>
           </div>
           {/* answer */}
-          <div className=" text-center text-2xl font-normal tracking-wider leading-relaxed py-11 pb-24 rounded-b-xl bg-white">
+          <div className=" text-center text-2xl font-normal tracking-wider leading-loose py-11 pb-16 rounded-b-xl bg-white">
             {linesOrder.map((index) => (
               <p key={index}>
                 {index === 0 && (
